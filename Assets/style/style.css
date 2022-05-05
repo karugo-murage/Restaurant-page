@@ -33,3 +33,23 @@ li{
     font-size: x-large;
     margin: 0rem 0rem 12rem 3rem;
 }
+.pg2{
+    display: flex;
+    justify-content: flex-start;
+    margin-top: 2rem;
+}
+.nxt{
+    padding-left: 3rem;
+}
+.cut{
+    font-size: x-large;
+    font-weight: bold;
+    padding: 5rem 0rem 0rem 0rem;
+}
+#learn{
+    background-color: black;
+    height: 2rem;
+    width: 7rem;
+    color: yellow;
+    border: none;
+}
