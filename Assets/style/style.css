@@ -53,8 +53,9 @@ li{
     color: yellow;
     border: none;
 }
-.movers{
+.topmovers{
     background-color: rgb(236, 236, 236);
+    margin-bottom: 0rem;
 }
 .top{
     font-weight: bold;
@@ -75,3 +76,9 @@ li{
     display: flex;
     justify-content:space-between;
     padding-bottom: 3rem;
+}
+.foot1{
+    background-color: black;
+    margin-top: 0rem;
+    border: 1px solid rgb(3, 3, 3);
+}
