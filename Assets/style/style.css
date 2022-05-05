@@ -1,0 +1,35 @@
+.nav{
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10rem;
+}
+.pg1{
+    border: 1px solid;
+    background-image: image(/);
+}
+li{
+    padding:2rem;
+    list-style-type: none;
+}
+#login{
+    background-color: yellow;
+    box-shadow: 2px 2px 10px yellowgreen;
+}
+#signin{
+    background-color: black;
+    color: white;
+    box-shadow: 2px 2px 7px red;
+}
+.change{
+    color: yellow;
+    font-weight: bold;
+    font-size: xx-large;
+    border: 1px solid;
+    margin: 3rem;
+}
+.soln{
+    color: silver;
+    font-size: x-large;
+    margin: 0rem 0rem 12rem 3rem;
+    border: 1px solid;
+}
