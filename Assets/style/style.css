@@ -67,8 +67,11 @@ li{
 }
 .movers{
     padding-left: 7rem;
-    border: 1px solid;
 }
 .ufalme{
     padding-right: 13rem;
 }
+.imgrow2{
+    display: flex;
+    justify-content:space-between;
+    padding-bottom: 3rem;
