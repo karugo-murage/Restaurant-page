@@ -166,8 +166,9 @@ td{
 .details{
     background-color: white;
     color: black;
-    border: 1px solid;
-    margin: 0rem 24rem 0rem 10rem;
+    border: 1px;
+    margin: 0rem 24rem 3rem 10rem;
+    border-radius: 10px;
 }
 .tb1{
     color:black ;
@@ -177,5 +178,13 @@ td{
     border: 1px solid black;
     background-color: brown;
     
+}
+#air{
+    display: flex;
+    justify-content: space-between;
+}
+#air > ul > li{
+    color: black;
+    padding: 0rem;
 }
   
