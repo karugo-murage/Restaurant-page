@@ -185,6 +185,29 @@ td{
 }
 #air > ul > li{
     color: black;
-    padding: 0rem;
+    padding: 0rem 5rem 1rem 0rem;
+    list-style: circle;
+}
+.hori{
+    width: 8rem;
+    margin-left: 10rem;
+}
+.force{
+
+}
+.spa{
+    padding:0rem 2rem 0rem 1.2rem;
+    margin: 0rem;
+    border-right: 1px solid;
+}
+.house{
+    background-color: white;
+    border: 1px solid;
+}
+.malhouse{
+    display: flex;
+    justify-content:space-around;
+    border: 1px solid;
+    padding-left: 8rem;
 }
   
