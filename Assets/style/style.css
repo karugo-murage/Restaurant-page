@@ -123,3 +123,26 @@ td{
       background-color: black;
       color: white;
   }
+  #kayley{
+      color: black;
+      padding: 1rem;
+      margin: 0rem;
+      border: 1px;
+      border-radius: 10px;
+      font-size: small;
+      margin: 0px 15px 15px 15px;
+      box-shadow: 1px 1px 2px silver;
+  }
+  .one{
+      display: flex;
+      justify-content: flex-start;
+      margin: 2rem;
+  }
+  .one2{
+      border: 1px;
+      margin-left: 2rem;
+      padding-left: 0rem;
+      background-color: white;
+      box-shadow: 2px 2px 5px silver;
+      border-radius: 10px;
+  }
