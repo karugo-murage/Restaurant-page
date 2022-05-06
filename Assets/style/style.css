@@ -78,7 +78,36 @@ li{
     padding-bottom: 3rem;
 }
 .foot1{
-    background-color: black;
+    background-color: rgb(19, 18, 18);
     margin-top: 0rem;
     border: 1px solid rgb(3, 3, 3);
 }
+table{
+    color: white;   
+    margin-left: 28rem;
+    margin-bottom: 5rem;
+}
+td{
+    padding: 1rem 3rem 0rem 2rem;
+}
+/*.fa {
+    padding: 20px;
+    font-size: 30px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+    margin: 5px 2px;
+  }
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  }
+  .fa-twitter {
+    background: #55ACEE;
+    color: white;
+  }*/
+  .foothead{
+      margin: 3rem 7rem 3rem 7rem;
+      font-size: xx-large;
+      font-weight: bold;
+  }
