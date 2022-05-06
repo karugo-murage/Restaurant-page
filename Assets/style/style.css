@@ -111,3 +111,15 @@ td{
       font-size: xx-large;
       font-weight: bold;
   }
+  /*page 2 style*/
+  #unique{
+      margin-bottom: 1rem;
+  }
+  .modern{
+      display: flex;
+      justify-content: space-around;
+  }
+  .nav2{
+      background-color: black;
+      color: white;
+  }
